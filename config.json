@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentutringify",
+        "uuid": 43324198,
+        "checksum": "0fzk3"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
